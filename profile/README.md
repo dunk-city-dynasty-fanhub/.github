@@ -4,7 +4,7 @@ Dunk City Dynasty is a mobile basketball simulation game that combines fast-pace
 
 This project aims to provide an overview of the game's core features, user interface, and community feedback for those interested in mobile sports simulation titles.
 
-## Save to Your Phone - [Dunk City Dynasty (2025)](https://shorturl.at/2HLuI)
+## Save to Your Phone - [Dunk City Dynasty (2025)](https://shorturl.at/z2aeb)
 
 
 ![image](https://github.com/user-attachments/assets/75599a1f-ae9c-41e3-80e7-c8899ee9c8e8)
